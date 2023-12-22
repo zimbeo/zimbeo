@@ -1,4 +1,11 @@
 - 👋 Hi, I’m @zimbeo
-- 👀 I’m interested in ... Powershell, Ansible, Sysadmin, and other DevOps type stuff. I like making my problems my codes problems.
-- 🌱 I’m currently learning ... Powershell and Ansible
+- 👀 I’m interested in ...
+  - Ansible
+  - SaltStack
+  - Terraform
+  - Aria Automation
+  - Packer
+  - Python
+  - PowerShell
+- 🌱 I’m currently learning ... a lot
 
